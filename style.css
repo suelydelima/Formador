@@ -25,7 +25,7 @@ body{
         margin-right: 5%;
     }
 
-    categoria-videos{
+    .categoria-videos{
         display: flex;
         overflow-x: auto;
         gap: 10px;
