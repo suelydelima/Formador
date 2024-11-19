@@ -30,8 +30,7 @@ body{
         overflow-x: auto;
         gap: 10px;
     }
-    
-    .chamada {
-        background: rgb(74, 158, 63);
 
+    img {
+        height: 200px;
     }
