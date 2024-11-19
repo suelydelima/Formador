@@ -20,10 +20,14 @@ body{
     .chama-texto {
         margin-right: 5%;
     }
-    
+
     categoria-videos{
         display: flex;
         overflow-x: auto;
         gap: 10px;
     }
+    
+    .chamada {
+        background: rgb(184, 156, 213);
+
     }
